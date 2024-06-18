@@ -1,5 +1,4 @@
-<!-- prettier-ignore -->
-<div align="center">
+# 🤖 Azure OpenAI RAG workshop - Node.js version
 
 # 🤖 Azure OpenAI RAG workshop - Node.js version
 
@@ -79,6 +78,7 @@ The resource group and all the resources will be deleted.
 ## Other versions
 
 This sample and workshop exists in different versions:
+
 - [**Node.js + Azure AI Search**](https://aka.ms/ws/openai-rag)
 - [**Node.js + Qdrant**](https://aka.ms/ws/openai-rag-qdrant)
 - [**Java/Quarkus + Qdrant**](https://aka.ms/ws/openai-rag-quarkus).
@@ -94,6 +94,7 @@ Here are some resources to learn more about the technologies used in this sample
 You can also find [more Azure AI samples here](https://github.com/Azure-Samples/azureai-samples).
 
 This sample/workshop was based on the enterprise-ready sample **ChatGPT + Enterprise data with Azure OpenAI and AI Search**:
+
 - [JavaScript version](https://github.com/Azure-Samples/azure-search-openai-javascript) / [Serverless JavaScript version](https://github.com/Azure-Samples/serverless-chat-langchainjs)
 - [Python version](https://github.com/Azure-Samples/azure-search-openai-demo/)
 - [Java version](https://github.com/Azure-Samples/azure-search-openai-demo-java)
@@ -105,7 +106,7 @@ If you want to go further with more advanced use-cases, authentication, history 
 
 This project welcomes contributions and suggestions. Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
+the rights to use your contribution. For details, visit <https://cla.opensource.microsoft.com>.
 
 When you submit a pull request, a CLA bot will automatically determine whether you need to provide
 a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
